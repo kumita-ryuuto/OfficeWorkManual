@@ -7,3 +7,4 @@
 ## プリンタ について 
 ## 大容量 データ の 送受信 について
 ## トロール
+## People Forget about thousand things everyday, make sure this is one of them.
